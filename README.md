@@ -1,4 +1,19 @@
 # iOS-Swift-Project-Template
+
+## Installed pods:
+
+1. SwiftLint
+2. R.swift
+3. SDWebImage
+4. SDWebImage/GIF
+5. Realm
+6. RealmSwift
+7. ObjectMapper
+8. Swinject
+10. SwinjectStoryboard
+11. Alamofire
+12. SwiftyJSON
+
 # Step 1 - Rename the project
 
 1. Click on the project you want to rename in the "Project navigator" on the left of the Xcode view.
